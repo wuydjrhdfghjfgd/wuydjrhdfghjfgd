@@ -15,7 +15,7 @@
 <br>
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wuydjrhdfghjfgd&theme=github-dark-dimmed&custom_title=wuydjrhdfghjfgd%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wuydjrhdfghjfgd&theme=github-dark-dimmed&custom_title=wuydjrhdfghjfgd%20Activity%20Graph&hide_border=true)](https://github.com/wuydjrhdfghjfgd)
 
 ```yaml
 nickname: lobotomy ( лоботомия ) 
