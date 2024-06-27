@@ -17,11 +17,6 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wuydjrhdfghjfgd&theme=github-dark-dimmed&custom_title=wuydjrhdfghjfgd%20Activity%20Graph&hide_border=true)](https://github.com/wuydjrhdfghjfgd)
 
-```yaml
-nickname: lobotomy ( лоботомия ) 
-located_in: Ukraine
-from: ???, Ukraine
-```
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jijk5tdsgpkihwhzhw7q2uhi6m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile">
